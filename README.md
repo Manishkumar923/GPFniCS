@@ -51,6 +51,8 @@ Inputs: Material Data, discretized geometry in .xml format. Boundary conditions.
 Outputs: Contour plots in .pvd format can be imported into ParaView. Load and displacement values are recorded in a text file. The Python script is used to produce the plots for load and displacement plots.
 
 # Content of repository
+Three folders are provided in the repository: src (source codes of the problems), Input_data (input mesh files), Examples (all the cases presented in the article).
+
 The provided codes are for the following problems: 
 	
         1.  Uniaxial bar: A python script for numerical analysis is provided. The 
